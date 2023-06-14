@@ -6,7 +6,6 @@
   Benvenuti sul mio Profilo
 </h1>
 
-<div style="width:100%;height:0;padding-bottom:20%;position:relative;"><iframe src="https://giphy.com/embed/MYI6NK4JOGpOzOriEg" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/thecodingspacerd-code-coding-coder-MYI6NK4JOGpOzOriEg">via GIPHY</a></p>
 
 ---
 
@@ -15,3 +14,8 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kobra3390)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kobra3390&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+### Linguaggi di Programmazione che uso:
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
