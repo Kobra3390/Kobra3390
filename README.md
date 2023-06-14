@@ -1,9 +1,10 @@
 <div id="header" align="center">
   <img src="spacehack.ico" width="100"/>
+  Benvenuti sul mio Profilo
 </div>
 
 <h1>
-  Benvenuti sul mio Profilo
+  
 </h1>
 
 
