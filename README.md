@@ -1,5 +1,6 @@
 <div id="header" align="center">
   <img src="spacehack.ico" width="100"/>
+  <br />
   <img src="https://komarev.com/ghpvc/?username=Kobra3390&style=flat-square&color=blue" alt=""/>
 </div>
 
