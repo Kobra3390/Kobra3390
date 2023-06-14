@@ -1,7 +1,8 @@
 <div id="header" align="center">
   <img src="spacehack.ico" width="100"/>
+  <img src="https://komarev.com/ghpvc/?username=Kobra3390&style=flat-square&color=blue" alt=""/>
 </div>
-<img src="https://komarev.com/ghpvc/?username=Kobra3390&style=flat-square&color=blue" alt=""/>
+
 
 <h1>
   Benvenuti sul mio Profilo
