@@ -6,7 +6,7 @@
   Benvenuti sul mio Profilo
 </h1>
 
-<iframe src="https://giphy.com/embed/MYI6NK4JOGpOzOriEg" width="480" height="96" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/thecodingspacerd-code-coding-coder-MYI6NK4JOGpOzOriEg">via GIPHY</a></p>
+<div style="width:100%;height:0;padding-bottom:20%;position:relative;"><iframe src="https://giphy.com/embed/MYI6NK4JOGpOzOriEg" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/thecodingspacerd-code-coding-coder-MYI6NK4JOGpOzOriEg">via GIPHY</a></p>
 
 ---
 
