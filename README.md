@@ -18,4 +18,4 @@
 ---
 
 ### Linguaggi di Programmazione che uso:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,c)](https://skillicons.dev)
