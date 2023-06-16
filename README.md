@@ -25,4 +25,4 @@
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,c,arduino,bash,latex,lua,py,ruby,php,powershell)](https://skillicons.dev)
 
 ### Tecnologie e tool che uso/ho usato:
-[![My Skills](https://skillicons.dev/icons?i=emacs,latex,lua,py,vscode,replit,raspberrypi,md,latex,linux,github,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=emacs,latex,lua,py,vscode,replit,raspberrypi,md,linux,github,git)](https://skillicons.dev)
