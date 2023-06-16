@@ -21,7 +21,7 @@
 
 ---
 
-### Linguaggi di Programmazione che uso:
+### Linguaggi di Programmazione che ho studiato:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,c,arduino,bash,latex,lua,py,ruby,php,powershell)](https://skillicons.dev)
 
 ### Tecnologie e tool che uso/ho usato:
