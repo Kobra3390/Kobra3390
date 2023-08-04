@@ -2,8 +2,6 @@
   <img src="spacehack.ico" width="100"/>
   <br />
   <img src="https://komarev.com/ghpvc/?username=Kobra3390&style=flat-square&color=blue" alt=""/>
-
-
 </div>
 
 
@@ -12,6 +10,9 @@
   Benvenuti sul mio Profilo
 </h1>
 
+<p>
+  In questo profilo troverete i progetti a cui lavoro. 
+</p>
 
 ---
 
