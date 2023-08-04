@@ -1,10 +1,10 @@
 <div id="header" align="center">
   <img src="spacehack.ico" width="100"/>
   <br />
-  <a href="URL_DEL_TUO_BLOG" style="display: block; background-color: #78e2a0; padding: 10px; text-align: center; color: #fff; text-decoration: none; font-weight: bold; font-size: 18px;">
-        Visita il mio blog!
-    </a>
   <img src="https://komarev.com/ghpvc/?username=Kobra3390&style=flat-square&color=blue" alt=""/>
+  <br />
+  <p>Benvenuto al mio blog! Clicca sul bottone per leggere gli articoli.</p>
+  <a href="link_al_tuo_blog" style="display: inline-block; background-color: #78e2a0; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px;">Visita il blog</a>
 </div>
 
 
