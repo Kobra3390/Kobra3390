@@ -2,7 +2,7 @@
   <img src="spacehack.ico" width="100"/>
   <br />
   <img src="https://komarev.com/ghpvc/?username=Kobra3390&style=flat-square&color=blue" alt=""/>
-  <img alt="Static Badge" src="[https://img.shields.io/badge/:badgeContent?style=plastic&logo=nmp](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=plastic)">
+
 
 </div>
 
